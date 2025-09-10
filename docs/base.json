@@ -1,0 +1,20 @@
+{
+    "champions_league_players": [
+        {
+            "id": 1,
+            "name": "Lionel Messi",
+            "club": "Paris Saint-Germain",
+            "nationality": "Argentina",
+            "posirion": "Forward",
+            "statistics": {
+                "Overall": 93,
+                "Pace": 85,
+                "Shooting": 94,
+                "Passing": 91,
+                "Dribbling": 95,
+                "Defending": 38,
+                "Physical": 65
+            }
+        }
+    ]
+}
