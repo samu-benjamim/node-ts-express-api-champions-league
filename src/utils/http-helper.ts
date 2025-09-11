@@ -14,3 +14,20 @@ export const noContent = async (): Promise<HttpResponse> => {
         body: null
     }
 }
+export const BadRequest = async (): Promise<HttpResponse> => {
+    return {
+        statusCode: 400,
+        body: {
+            message: "Bad Request"
+        }
+    }
+}
+
+export const created = async (): Promise<HttpResponse> => {
+    return {
+        statusCode: 201,
+        body: {
+            massage: "successful"
+        }
+    }
+}

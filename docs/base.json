@@ -18,3 +18,407 @@
         }
     ]
 }
+{
+  "champions_league_players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "club": "Paris Saint-Germain",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 93,
+        "Pace": 85,
+        "Shooting": 94,
+        "Passing": 91,
+        "Dribbling": 95,
+        "Defending": 38,
+        "Physical": 65
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "club": "Real Madrid",
+      "nationality": "Portugal",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 94,
+        "Pace": 90,
+        "Shooting": 95,
+        "Passing": 84,
+        "Dribbling": 89,
+        "Defending": 35,
+        "Physical": 78
+      }
+    },
+    {
+      "id": 3,
+      "name": "Zinedine Zidane",
+      "club": "Real Madrid",
+      "nationality": "France",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 92,
+        "Pace": 76,
+        "Shooting": 85,
+        "Passing": 94,
+        "Dribbling": 91,
+        "Defending": 60,
+        "Physical": 75
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ronaldinho",
+      "club": "Barcelona",
+      "nationality": "Brazil",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 91,
+        "Pace": 88,
+        "Shooting": 85,
+        "Passing": 90,
+        "Dribbling": 94,
+        "Defending": 40,
+        "Physical": 75
+      }
+    },
+    {
+      "id": 5,
+      "name": "Paolo Maldini",
+      "club": "AC Milan",
+      "nationality": "Italy",
+      "position": "Defender",
+      "statistics": {
+        "Overall": 92,
+        "Pace": 80,
+        "Shooting": 50,
+        "Passing": 82,
+        "Dribbling": 78,
+        "Defending": 95,
+        "Physical": 88
+      }
+    },
+    {
+      "id": 6,
+      "name": "Xavi Hernández",
+      "club": "Barcelona",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 90,
+        "Pace": 72,
+        "Shooting": 70,
+        "Passing": 95,
+        "Dribbling": 88,
+        "Defending": 68,
+        "Physical": 72
+      }
+    },
+    {
+      "id": 7,
+      "name": "Andrés Iniesta",
+      "club": "Barcelona",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 91,
+        "Pace": 74,
+        "Shooting": 72,
+        "Passing": 93,
+        "Dribbling": 92,
+        "Defending": 65,
+        "Physical": 70
+      }
+    },
+    {
+      "id": 8,
+      "name": "Iker Casillas",
+      "club": "Real Madrid",
+      "nationality": "Spain",
+      "position": "Goalkeeper",
+      "statistics": {
+        "Overall": 90,
+        "Pace": 60,
+        "Shooting": 40,
+        "Passing": 75,
+        "Dribbling": 55,
+        "Defending": 92,
+        "Physical": 80
+      }
+    },
+    {
+      "id": 9,
+      "name": "Kaká",
+      "club": "AC Milan",
+      "nationality": "Brazil",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 89,
+        "Pace": 87,
+        "Shooting": 85,
+        "Passing": 86,
+        "Dribbling": 90,
+        "Defending": 50,
+        "Physical": 75
+      }
+    },
+    {
+      "id": 10,
+      "name": "Thierry Henry",
+      "club": "Arsenal",
+      "nationality": "France",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 92,
+        "Pace": 94,
+        "Shooting": 91,
+        "Passing": 84,
+        "Dribbling": 90,
+        "Defending": 40,
+        "Physical": 80
+      }
+    },
+    {
+      "id": 11,
+      "name": "Francesco Totti",
+      "club": "AS Roma",
+      "nationality": "Italy",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 88,
+        "Pace": 76,
+        "Shooting": 90,
+        "Passing": 87,
+        "Dribbling": 88,
+        "Defending": 45,
+        "Physical": 78
+      }
+    },
+    {
+      "id": 12,
+      "name": "Steven Gerrard",
+      "club": "Liverpool",
+      "nationality": "England",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 89,
+        "Pace": 78,
+        "Shooting": 88,
+        "Passing": 90,
+        "Dribbling": 84,
+        "Defending": 75,
+        "Physical": 82
+      }
+    },
+    {
+      "id": 13,
+      "name": "Frank Lampard",
+      "club": "Chelsea",
+      "nationality": "England",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 88,
+        "Pace": 75,
+        "Shooting": 90,
+        "Passing": 87,
+        "Dribbling": 82,
+        "Defending": 70,
+        "Physical": 82
+      }
+    },
+    {
+      "id": 14,
+      "name": "Didier Drogba",
+      "club": "Chelsea",
+      "nationality": "Ivory Coast",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 89,
+        "Pace": 85,
+        "Shooting": 90,
+        "Passing": 77,
+        "Dribbling": 82,
+        "Defending": 48,
+        "Physical": 90
+      }
+    },
+    {
+      "id": 15,
+      "name": "Clarence Seedorf",
+      "club": "AC Milan",
+      "nationality": "Netherlands",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 87,
+        "Pace": 78,
+        "Shooting": 84,
+        "Passing": 88,
+        "Dribbling": 85,
+        "Defending": 70,
+        "Physical": 80
+      }
+    },
+    {
+      "id": 16,
+      "name": "Raúl González",
+      "club": "Real Madrid",
+      "nationality": "Spain",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 90,
+        "Pace": 82,
+        "Shooting": 91,
+        "Passing": 82,
+        "Dribbling": 87,
+        "Defending": 45,
+        "Physical": 78
+      }
+    },
+    {
+      "id": 17,
+      "name": "Alessandro Del Piero",
+      "club": "Juventus",
+      "nationality": "Italy",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 88,
+        "Pace": 80,
+        "Shooting": 89,
+        "Passing": 85,
+        "Dribbling": 90,
+        "Defending": 40,
+        "Physical": 76
+      }
+    },
+    {
+      "id": 18,
+      "name": "Philipp Lahm",
+      "club": "Bayern Munich",
+      "nationality": "Germany",
+      "position": "Defender",
+      "statistics": {
+        "Overall": 89,
+        "Pace": 83,
+        "Shooting": 65,
+        "Passing": 88,
+        "Dribbling": 85,
+        "Defending": 92,
+        "Physical": 75
+      }
+    },
+    {
+      "id": 19,
+      "name": "Manuel Neuer",
+      "club": "Bayern Munich",
+      "nationality": "Germany",
+      "position": "Goalkeeper",
+      "statistics": {
+        "Overall": 91,
+        "Pace": 65,
+        "Shooting": 42,
+        "Passing": 80,
+        "Dribbling": 60,
+        "Defending": 94,
+        "Physical": 85
+      }
+    },
+    {
+      "id": 20,
+      "name": "Andrea Pirlo",
+      "club": "AC Milan",
+      "nationality": "Italy",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 90,
+        "Pace": 70,
+        "Shooting": 82,
+        "Passing": 95,
+        "Dribbling": 88,
+        "Defending": 65,
+        "Physical": 72
+      }
+    },
+    {
+      "id": 21,
+      "name": "Samuel Eto'o",
+      "club": "Barcelona",
+      "nationality": "Cameroon",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 90,
+        "Pace": 93,
+        "Shooting": 90,
+        "Passing": 78,
+        "Dribbling": 88,
+        "Defending": 40,
+        "Physical": 82
+      }
+    },
+    {
+      "id": 22,
+      "name": "David Beckham",
+      "club": "Manchester United",
+      "nationality": "England",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 87,
+        "Pace": 75,
+        "Shooting": 85,
+        "Passing": 92,
+        "Dribbling": 84,
+        "Defending": 60,
+        "Physical": 78
+      }
+    },
+    {
+      "id": 23,
+      "name": "Luis Figo",
+      "club": "Real Madrid",
+      "nationality": "Portugal",
+      "position": "Midfielder",
+      "statistics": {
+        "Overall": 89,
+        "Pace": 87,
+        "Shooting": 82,
+        "Passing": 88,
+        "Dribbling": 91,
+        "Defending": 55,
+        "Physical": 76
+      }
+    },
+    {
+      "id": 24,
+      "name": "George Best",
+      "club": "Manchester United",
+      "nationality": "Northern Ireland",
+      "position": "Forward",
+      "statistics": {
+        "Overall": 91,
+        "Pace": 92,
+        "Shooting": 88,
+        "Passing": 85,
+        "Dribbling": 94,
+        "Defending": 40,
+        "Physical": 78
+      }
+    },
+    {
+      "id": 25,
+      "name": "Lev Yashin",
+      "club": "Dynamo Moscow",
+      "nationality": "Soviet Union",
+      "position": "Goalkeeper",
+      "statistics": {
+        "Overall": 94,
+        "Pace": 68,
+        "Shooting": 40,
+        "Passing": 75,
+        "Dribbling": 60,
+        "Defending": 96,
+        "Physical": 85
+      }
+    }
+  ]
+}
