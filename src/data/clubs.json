@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "titles_champs": 15
+    },
+    {
+        "id": 2,
+        "name": "AC Milan",
+        "titles_champs": 7
+    },
+    {
+        "id": 3,
+        "name": "Bayern de Munique",
+        "titles_champs": 6
+    },
+    {
+        "id": 4,
+        "name": "Liverpool",
+        "titles_champs": 6
+    },
+    {
+        "id": 5,
+        "name": "Barcelona",
+        "titles_champs": 5
+    },
+    {
+        "id": 6,
+        "name": "Ajax",
+        "titles_champs": 4
+    },
+    {
+        "id": 7,
+        "name": "Inter de Milão",
+        "titles_champs": 3
+    },
+    {
+        "id": 8,
+        "name": "Manchester United",
+        "titles_champs": 3
+    },
+    {
+        "id": 9,
+        "name": "Juventus",
+        "titles_champs": 2
+    },
+    {
+        "id": 10,
+        "name": "Benfica",
+        "titles_champs": 2
+    }
+]
